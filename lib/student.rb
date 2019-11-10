@@ -4,6 +4,10 @@ class Student < User
     @knowledge = []
   end 
   
+  def learn(String)
+    string = ""
+  end
+  
   def knowledge
     
   end 
